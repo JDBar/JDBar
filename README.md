@@ -1,6 +1,6 @@
 ## 🧔 About Me
 
-* I am a self-motivated software development team lead with experience building specialized web applications, mentoring developers, estimating and allocating developer resources, and promoting best practices in the software development life cycle. I strive to build and support both exceptional web apps and extraordinary development teams. 
+* I am a Direct of Engineering with experience building specialized web applications, mentoring developers, estimating and allocating developer resources, and promoting best practices in the software development life cycle. I strive to build and support both exceptional web apps and extraordinary development teams. 
 
 ## 📫 How to Reach Me
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-barron/)!
@@ -41,8 +41,11 @@
 ## 👔 Experience
 ---
 > ### Art of Problem Solving
+> #### Direct of Engineering
+> _Sep 2020 - Present_
+>
 > #### Software Development Team Lead
-> _Aug 2019 - Present_
+> _Aug 2019 - Aug 2020_
 >
 > * Coordinated cross-team efforts to introduce React into developer workflows and decide on libraries, coding conventions, and policies.
 >
