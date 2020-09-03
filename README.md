@@ -1,6 +1,6 @@
 ## 🧔 About Me
 
-* I am a Direct of Engineering with experience building specialized web applications, mentoring developers, estimating and allocating developer resources, and promoting best practices in the software development life cycle. I strive to build and support both exceptional web apps and extraordinary development teams. 
+*  I am a Director of Engineering with experience building specialized web applications, hiring and mentoring software engineers, estimating and allocating development resources, and promoting best practices in the software development life cycle. I strive to build and support both exceptional web apps and extraordinary development teams.  
 
 ## 📫 How to Reach Me
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-barron/)!
