@@ -41,7 +41,7 @@
 ## 👔 Experience
 ---
 > ### Art of Problem Solving
-> #### Direct of Engineering
+> #### Director of Engineering
 > _Sep 2020 - Present_
 >
 > * Enabled our team to scale the AoPS Contest Platform to support 10,000+ concurrent contestants during the AMC 10/12A and MATHCOUNTS Chapter competition. Configured production CDN and created a process for back-end profiling and stress-testing in development environments that allowed our team to optimize page load speed by up to 2000%.
