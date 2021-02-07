@@ -44,13 +44,13 @@
 > #### Director of Engineering
 > _Sep 2020 - Present_
 >
-> * Enabled our team to scale the AoPS Contest Platform to support 10,000+ concurrent contestants during the AMC 10/12A and MATHCOUNTS Chapter competition. Configured production CDN and created a process for back-end profiling and stress-testing in development environments that allowed our team to optimize page load speed by up to 2000%.
+> * Configured production CDN and created a process for back-end profiling and stress-testing in development environments that allowed our team to optimize page load speed by up to 2000%. This boost enabled our team to scale the AoPS Contest Platform to support 10,000+ concurrent contestants during the AMC 10/12A and MATHCOUNTS Chapter competition.
 >
-> * Created the hiring/interviewing/onboarding process for the team's first full-time DevOps Engineer role.
+> * Addressed operations bottlenecks by creating and leading the hiring/interviewing/onboarding process for a new full-time devops team.
 >
-> * Coordinated a task force to perform a security audit and rebuild of a major legacy production environment as part of a larger strategy to pay back tech-debt in critical infrastructure.
+> * Coordinated a task force to perform a security audit and rebuild of a major legacy production environment as part of a larger strategy to pay back tech-debt in critical infrastructure, ultimately reducing maintenance overhead and improving system reliability.
 >
-> * Automated parts of the engineering team's incident response process to improve time-to-first-response and lead time of post-incident tasks.
+> * Automated parts of the engineering team's incident response process to improve time-to-resolution and lead time of post-incident tasks.
 >
 > * Worked with engineering leadership to identify what developers liked least about team-wide meetings; replaced monotonous standup-style check-ins (that weren't scaling well for 20+ people) with optional tech-talks and project demos to foster knowledge-sharing within the team and give engineers a chance to show off their contributions.
 >
