@@ -1,6 +1,6 @@
 ## 🧔 About Me
 
-*  I am a Director of Engineering with experience building specialized web applications, hiring and mentoring software engineers, estimating and allocating development resources, and promoting best practices in the software development life cycle. I strive to build and support both exceptional web apps and extraordinary development teams.  
+*  I am an engineering director who strives to build and support both exceptional web apps and extraordinary software development teams. I have experience building web applications that are scalable and maintainable, improving engineering hiring processes to meet the company's current and future needs, managing and mentoring engineering staff/managers for performance and growth, and fostering a strong positive team culture that promotes best practices and collaboration.
 
 ## 📫 How to Reach Me
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-barron/)!
@@ -18,8 +18,8 @@
 
 * Why you should consider using MobX for state management in a real-time web app.
 * The pros and cons of cloud-based error logging.
-* Writing concise TypeScript code with type inference via generic functions. 
-* Exploiting type coercion in JavaScript to write insanely short obfuscated code.
+* Why TypeScript might be right for your web development team.
+* How to get a little better at JavaScript code golf.
 
 ## 🛠 Skills
 
